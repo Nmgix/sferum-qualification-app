@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sferum-qualification-app/static/css/main.d121c29e.css",
+    "main.css": "/sferum-qualification-app/static/css/main.b1470179.css",
     "main.js": "/sferum-qualification-app/static/js/main.9fd0fe4e.js",
     "static/media/Gilroy-UltraLightItalic.eot": "/sferum-qualification-app/static/media/Gilroy-UltraLightItalic.a6fc8679f9d9bbc3e3a7.eot",
     "static/media/Gilroy-UltraLightItalic.ttf": "/sferum-qualification-app/static/media/Gilroy-UltraLightItalic.68a9a27f1aa1261013f3.ttf",
@@ -89,11 +89,11 @@
     "index.html": "/sferum-qualification-app/index.html",
     "static/media/cross.svg": "/sferum-qualification-app/static/media/cross.92a647ac6108a6625ced057f52f3dfad.svg",
     "static/media/down-chevron.svg": "/sferum-qualification-app/static/media/down-chevron.d376a270fa1f92f1379dd41e0879a232.svg",
-    "main.d121c29e.css.map": "/sferum-qualification-app/static/css/main.d121c29e.css.map",
+    "main.b1470179.css.map": "/sferum-qualification-app/static/css/main.b1470179.css.map",
     "main.9fd0fe4e.js.map": "/sferum-qualification-app/static/js/main.9fd0fe4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d121c29e.css",
+    "static/css/main.b1470179.css",
     "static/js/main.9fd0fe4e.js"
   ]
 }
